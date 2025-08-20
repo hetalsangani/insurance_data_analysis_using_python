@@ -21,7 +21,7 @@ Insurance Dataset (insurance.csv)
 
 # Variable Description:
 
-age:	Age of the person
+age:	Age of the person #
 sex:	Female or Male
 BMI: BMI value to estimate an individual's health and fitness condition
 children: number of children (1,2,3,4, or 5)
