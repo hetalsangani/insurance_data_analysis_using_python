@@ -21,12 +21,12 @@ Insurance Dataset (insurance.csv)
 
 # Variable Description:
 
-age:	Age of the person #
-sex:	Female or Male
-BMI: BMI value to estimate an individual's health and fitness condition
-children: number of children (1,2,3,4, or 5)
-smoker:	The person is a smoker or not
-region:	Specifies the region (northeast, northwest, southeast, southwest)
+age:	Age of the person ||
+sex:	Female or Male ||
+BMI: BMI value to estimate an individual's health and fitness condition ||
+children: number of children (1,2,3,4, or 5) ||
+smoker:	The person is a smoker or not ||
+region:	Specifies the region (northeast, northwest, southeast, southwest) ||
 charges:	the amount of insurance
 
 
