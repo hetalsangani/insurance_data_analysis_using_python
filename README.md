@@ -21,6 +21,6 @@ Insurance Dataset (insurance.csv)
 
 # Variable Description:
 
-<img width="468" height="230" alt="image" src="https://github.com/user-attachments/assets/6f58b969-9d7d-4733-a0ad-d2cd9db449ef" />
+<img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/6f58b969-9d7d-4733-a0ad-d2cd9db449ef" />
 
 
